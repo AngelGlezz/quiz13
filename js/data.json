@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué jugador americanista anotó el gol que descendió al Necaxa en 2009?",
+      "respuestas": [
+        {
+          "respuesta": "Fernando Ortiz",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Salvador Cabañas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Zague",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Enrique Esqueda",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué directivo americanista fue símbolo del Necaxa en los años noventa?",
+      "respuestas": [
+        {
+          "respuesta": "Alberto García Aspe",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Pepe Romano",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ricardo Peláez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Sergio Vázquez",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién era el técnico del Necaxa en aquella derrota ante América que costó el descenso a los Rayos?",
+      "respuestas": [
+        {
+          "respuesta": "Manuel Lapuente",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Raúl Arias",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ivo Basay",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Milton Queiroz",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué delantero campeón con ambos equipos era conocido como “El Matador”?",
+      "respuestas": [
+        {
+          "respuesta": "Luis Hernández",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Carlos Hermosillo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ricardo Peláez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ivo Basay",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué torneo disputaron la final Necaxa y América?",
+      "respuestas": [
+        {
+          "respuesta": "Apertura 2009",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Verano 2002",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Invierno 2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2008",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado global de esa final?",
+      "respuestas": [
+        {
+          "respuesta": "América ganó 3-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "América ganó 1-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Necaxa ganó 1-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "América ganó 3-2",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué entrenador fue bicampeón con el Necaxa y campeón con el América?",
+      "respuestas": [
+        {
+          "respuesta": "Manuel Lapuente",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Raúl Arias",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carlos Reinoso",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jorge Vieira",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado del partido de torneo regular entre América y Necaxa?",
+      "respuestas": [
+        {
+          "respuesta": "Necaxa ganó 2-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "América ganó 3-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Necaxa ganó 3-2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Empate 1-1",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué empresario fue hasta 2014 dueño de ambos equipos?",
+      "respuestas": [
+        {
+          "respuesta": "Emilio Azcárraga Jean",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ricardo Salinas Pliego",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alejandro Burillo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carlos Slim",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador que defendió ambas camisetas era conocido como “El Beto”?",
+      "respuestas": [
+        {
+          "respuesta": "Efraín Herrera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alberto Medina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alberto García Aspe",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Luis Roberto Alves",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué leyenda americanista marcó un gol a las Águilas con la playera del Necaxa en la final de 2002?",
+      "respuestas": [
+        {
+          "respuesta": "Zague",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cuauhtémoc Blanco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Hernández",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Efraín Herrera",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Portero figura de ambos equipos que era conocido como “Arquero de Cristo”",
+      "respuestas": [
+        {
+          "respuesta": "Nicolás Navarro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hugo Pineda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Adolfo Ríos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Miguel de Jesús Fuentes",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año abandonó Necaxa el Estadio Azteca?",
+      "respuestas": [
+        {
+          "respuesta": "2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2003",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1997",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2007",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año compró Televisa al Necaxa?",
+      "respuestas": [
+        {
+          "respuesta": "1981",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1994",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1982",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1975",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "América venció a Necaxa en 2002 para ganar su título de liga profesional número…",
+      "respuestas": [
+        {
+          "respuesta": "Siete",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ocho",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Nueve",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Doce",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo fue la última vez que Necaxa y América se enfrentaron a eliminación directa?",
+      "respuestas": [
+        {
+          "respuesta": "Apertura 2009",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Verano 2002",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Clausura 2013",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Invierno 2002",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio se enfrentaron estos equipos por última vez?",
+      "respuestas": [
+        {
+          "respuesta": "Victoria",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Azteca",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Soldier Field",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Rose Bowl",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo fue campeón de liga el Necaxa por última vez?",
+      "respuestas": [
+        {
+          "respuesta": "Verano 2000",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Invierno 1998",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Apertura 2002",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2015",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol del América en el duelo de temporada regular contra Necaxa?",
+      "respuestas": [
+        {
+          "respuesta": "Paolo Goltz",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Oribe Peralta",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Darwin Quintero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Osmar Mares",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol del Necaxa en el duelo de temporada regular contra América?",
+      "respuestas": [
+        {
+          "respuesta": "Severo Meza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jesús Isijara",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Edson Puch",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Marcelo Barovero",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
