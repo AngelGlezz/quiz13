@@ -608,7 +608,7 @@ function finish_test(){
 
   	if(aciertos>=16 && aciertos<=20){
 	  	aficionado="";
-	  	msg="Eres un crack! Tienes una enciclopedia de fútbol en la cabeza. Envidio tu memoria.";
+	  	msg="¡Eres un crack! Tienes una enciclopedia de fútbol en la cabeza. Envidio tu memoria.";
   	}
   	
   	$("#indepth_aciertos").html(aciertos);
